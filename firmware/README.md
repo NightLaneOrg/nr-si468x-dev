@@ -24,6 +24,7 @@ You may be able to obtain firmware by:
 Example (unofficial, may change or disappear):
 
 https://www.mikrocontroller.net/topic/342689
+https://github.com/silelis/MustangRadio_develepementVersion/tree/main/02_Firmware/04_si468x
 
 ---
 
