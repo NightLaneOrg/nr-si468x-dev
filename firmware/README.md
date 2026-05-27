@@ -24,6 +24,7 @@ You may be able to obtain firmware by:
 Example (unofficial, may change or disappear):
 
 https://www.mikrocontroller.net/topic/342689
+
 https://github.com/silelis/MustangRadio_develepementVersion/tree/main/02_Firmware/04_si468x
 
 ---
@@ -36,7 +37,7 @@ Place firmware files in this directory:
 firmware/
 ├── dab_radio_*.bin
 ├── fmhd_radio_*.bin
-├── rom_patch*.bin
+└── rom_patch*.bin
 ```
 
 The software/driver will load firmware from this location.
