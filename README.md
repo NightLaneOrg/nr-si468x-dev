@@ -53,7 +53,7 @@ See [`/firmware/README.md`](firmware/README.md) for details on how to obtain and
 ## Hardware
 
 > [!CAUTION]
-> The PCBs as of Commit ``9c4ef1d`` have I2S interferance issues, as is to hear [here](https://hut9.de/radio_audio)  
+> The PCBs till at least Commit ``9c4ef1d`` have I2S interferance issues, as is to hear [here](https://hut9.de/radio_audio)  
 > This may have been fix in the later commits, but i don't have an later revision to this point
 > so assume I2S will sound like that!  
 > If someone knows how to fix that, feel free to contact me.
